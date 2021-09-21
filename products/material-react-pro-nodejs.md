@@ -4,10 +4,10 @@ description: Full-stack version of Material Dashboard PRO with a NodeJS backend
 
 # Material React PRO NodeJS
 
-Full-stack version of **React Material Dashboard**, a premium design now usable with a lightweight Node JS API Backend. The UI comes with pre-configured **JWT authentication** powered by the NodeJS backend available in two database options: SQLite and MongoDB. 
+Full-stack version of **Material Dashboard PRO React**, a premium design now usable with a lightweight Node JS API Backend. The UI comes with pre-configured **JWT authentication** powered by the NodeJS backend available in two database options: SQLite and MongoDB. 
 
-* [Material React PRO NodeJS](https://creative-tim.com/product/material-dashboard-pro-react-nodejs) - product page
-* [Material React PRO NodeJS](https://www.creative-tim.com/live/material-dashboard-pro-react-nodejs) - LIVE Demo
+* [Material Dashboard PRO React Nodejs](https://creative-tim.com/product/material-dashboard-pro-react-nodejs) - product page
+* [Material Dashboard PRO React Nodejs](https://www.creative-tim.com/live/material-dashboard-pro-react-nodejs) - LIVE Demo
 
 ![Material Dashboard React PRO - NodeJS](../.gitbook/assets/image.png)
 
@@ -33,7 +33,7 @@ The product aims to help developers skip over the basics and start faster a new 
 
 ### **How to use the product**
 
-Material Dashboard PRO React NodeJS is built using a two-tier architecture where the UI is decoupled from the backend API server and communicates using requests secured by **JWT tokens**. The recommended way to start using this full-stack product is to follow a simple setup: 
+**Material Dashboard PRO React Nodejs** is built using a two-tier architecture where the UI is decoupled from the backend API server and communicates using requests secured by **JWT tokens**. The recommended way to start using this full-stack product is to follow a simple setup: 
 
 * Step \#1 - Build and start the backend server
 * Step \#2 - Build and start the UI
