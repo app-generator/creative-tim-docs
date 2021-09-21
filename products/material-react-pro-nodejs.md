@@ -2,7 +2,7 @@
 description: Full-stack version of Material Dashboard PRO with a NodeJS backend
 ---
 
-# Material React PRO NodeJS
+# Material Dashboard PRO React Nodejs
 
 Full-stack version of **Material Dashboard PRO React**, a premium design now usable with a lightweight Node JS API Backend. The UI comes with pre-configured **JWT authentication** powered by the NodeJS backend available in two database options: SQLite and MongoDB. 
 
